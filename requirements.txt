@@ -1,0 +1,6 @@
+flask==2.0.1
+werkzeug==2.3.8
+flask-cors==4.0.0
+modelscope
+torch
+numpy==1.24.3 
